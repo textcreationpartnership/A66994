@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceptions against some passages or expressions in our introduction and first treatise, relating to Infant baptism examined and committed to the Godly-wise, to judge how just they be</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66994</idno><idno type="EEBO-CITATION">18229041</idno>
+  <idno type="VID">107210</idno>
+  <idno type="EEBO-PROQUEST">2248560521</idno>
+  
+            <idno type="STC">Wing W3487</idno>
+            <idno type="STC">ESTC R39142</idno>
+            <idno type="OCLC">18229041</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A66994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1138:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceptions against some passages or expressions in our introduction and first treatise, relating to Infant baptism examined and committed to the Godly-wise, to judge how just they be</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+                  <author>Woodward, Ezekias, 1590-1675. Infant baptism.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Cripps ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Woodward by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Infant baptism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107210:1"/>
+            <p>EXCEPTIONS Against some PASSAGES or EXPRESSIONS In our <hi>Introduction</hi> and first <hi>Treatise,</hi> rela<g ref="char:EOLhyphen"/>ting to INFANT BAPTISM examined and committed to the Godly-wise, to judge how just they be.</p>
+            <q>
+               <p>Every way of a man is <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight in his own eyes, but the Lord pon<g ref="char:EOLhyphen"/>dereth the h<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arts,</p>
+               <bibl>Prov. 21. 2</bibl>
+            </q>
+            <q>
+               <p>We can do nothing against the Truth, but for the Truth,</p>
+               <bibl>2 Cor. 13. 8</bibl> [He means it in regard <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his Spirit; his heart could not move against Truth.]</q>
+            <q>
+               <p>With me it is a very small thing, that I should be judged of you, or of mans judgement,</p>
+               <bibl>1 Cor. 4. 3.</bibl>
+            </q>
+            <figure>
+               <figDesc>printer's ornament</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Henry Cripps,</hi> and are to be sold at his shop in Popes head-Ally, nere <hi>Lombard street,</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107210:2"/>
+            <pb facs="tcp:107210:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Efore we can orderly pro<g ref="char:EOLhyphen"/>ceed in our enjoined and undertaken task, we must give you another trouble in reading, The <hi>Exceptions</hi> are taken against some Words or Expressions, harsh and uncomely, as is suggested in our <hi>Introduction,</hi> and first <hi>Treatise,</hi> rela<g ref="char:EOLhyphen"/>ting to <hi>Infant Baptism.</hi> This we must do, as we conceive, upon a double account.</p>
+            <p n="1">
+               <pb facs="tcp:107210:3"/> 1. We ought not in our appre<g ref="char:EOLhyphen"/>hension, hide any thing which may make for the opening the truth of <hi>sacred Doctrine</hi> or of <hi>Practise</hi> ful up thereunto, though we should, by so doing, lay open our own shame. One jot, or one tittle of Divine Truth, whether it relates to Doctrine or to practise, is of more worth, and should be so to us, then is the greatest worldly good.</p>
+            <p n="2">2. Because we are perswaded, these have past the hottest <hi>Purgato<g ref="char:EOLhyphen"/>ry,</hi> we mean, the hardest censure al<g ref="char:EOLhyphen"/>ready, we will clearly shew unto you what the <hi>Exceptions</hi> were, and leave it with you to judge how just they are, conceiving God may have some Glory thereby, and his Truth some advantage.</p>
+            <p>This more we would assure you
+<pb facs="tcp:107210:3"/> in, That whatsoever here or else<g ref="char:EOLhyphen"/>where savours yet to a good and gracious spirit, all that is from our own spirits, we heartily own it, gi<g ref="char:EOLhyphen"/>ving God the glory, and taking to our selves the shame. We will take leave to adde, That what you find sa<g ref="char:EOLhyphen"/>vouring of our own wisdom, which is as you read <hi>James</hi> 3. 15. It is not more our own, then it will be loathed by us, when it shall be made kown unto us.</p>
+            <p>We have only this more to say un<g ref="char:EOLhyphen"/>to you, That you may read well, and hear well, and all in order to live wel, look up to him who instructeth to that discretion, maketh His own peo<g ref="char:EOLhyphen"/>ple like His own self, having a <hi>pier<g ref="char:EOLhyphen"/>cing eye</hi> and a <hi>patient ear,</hi> and so doth <hi>altogether right,</hi> and <hi>judgeth righte<g ref="char:EOLhyphen"/>ously.</hi>
+            </p>
+            <pb facs="tcp:107210:4"/>
+            <p> And so we humbly commit you to <hi>God,</hi> and to the <hi>Word of his Grace,</hi> which is our rule whereby to walk, to judge our selves and our doings by; For Mans saying is but the say<g ref="char:EOLhyphen"/>ing of a Man; what God saith, that we must hear, thereafter we must say and do. Let his Word then have the highest Authority and Place in our Hearts, as that whereby we must Live, Act and Dye, and after Death be judged, <hi>Rom.</hi> 2. 16.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="section">
+            <pb n="7" facs="tcp:107210:4"/>
+            <head>Sect. I.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou required us to give in our Perswasion or Faith, with the Reasons thereof, in Reference <hi>to Free Admission of all to all Church Communions, To the observation of the day, is commonly called Christmas: To the Lords prayer;</hi> So far you, with your Brethren, had time, if your leisure could have spared you the season, or your favour the patience to read us, our faith and perswasion as to those matters. Three other Treatises, yet remain with us, and are not finished for you. But observing by the return you have made, That our Books, like most un<g ref="char:EOLhyphen"/>welc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me guests, cannot find longer entertainment in your Closet, much less in your bosome, and no acceptance at all from your Brethren, so far as to cast their eye toward them. We forbear, as in manners we ought to do, to send you what we had p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epared for you, having for that very end and pur<g ref="char:EOLhyphen"/>pose a Transcript of them, putting our selves to cost about them, so desirous we were, if we could not give, yet to take information from them, how we might order our mat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s by Rule, walk as fri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds up to our Gospel-light, and according to Church-order.</p>
+            <p>And tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly we put our selves to cost about these things, that we might clear our intentions towards you and your Brethren, who might, if they had pleased, when they could
+<pb n="8" facs="tcp:107210:5"/> not take, yet have given in their minde in the matters afore<g ref="char:EOLhyphen"/>said.</p>
+            <p>We will mention to you the most inconsiderable part of the Charge, which indeed must not fall into consideration com<g ref="char:EOLhyphen"/>pararively with the expense of Spirits and Time were spent a<g ref="char:EOLhyphen"/>bout it, yet it cost a considerable charge in it selfe considered, of as many or more shill<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, then your halfe sheet hath l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes, though so thrust; and this to make them legible to you. So regardful we ware of you (and it is but our duty) at least a point of good manneas, that sith you would have our judge<g ref="char:EOLhyphen"/>ment as to th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se matters under Debate, you should be able to read what it was, else we could have fitted you with a hand as bad as your own, and worse. And indeed had we consulted with that we have good store of, and is still in a readiness to be conferred with all <hi>flesh</hi> and <hi>blood,</hi> in reference to our time, and purse, we had certainly done it, wrote lines, as the O<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Poet</hi> you read of, wrote verses, <hi>Scribit carmi<g ref="char:EOLhyphen"/>na nemo legit, he wrote verses, no body reads them.</hi>
+            </p>
+            <p>But in such important and momentous matters, as we con<g ref="char:EOLhyphen"/>ceive these are under your hands, and ours, considering also your time, we could slight all this, the trouble, and the charge, and send our Papers so written, that you might after some <hi>pauses</hi> now and then pick out of them our <hi>sense</hi> in those mat<g ref="char:EOLhyphen"/>ters and <hi>reason</hi> both; And truely Sir, so we conc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive you ought to have done, ordered your answer so, sith you were pleased to send us one, though you had been at cost for it; That if the best Clerk amongst us could not run and read it, yet he might not have stumbled at eve<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y word.</p>
+            <p>But Sir, our Reverend Pastour (we adventure once more to call him so, sith <hi>he seeks the Lord,</hi> and in desire and en<g ref="char:EOLhyphen"/>deavour <hi>feedeth us with knowledge and understanding,</hi> we were saying, he our sa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d P<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stour hath been and now is, and we think will be, while the Lord God gives him a being in His house, and amongst His people, as busily employed as o<g ref="char:EOLhyphen"/>thers are now in their harvest, who possibly, if now, as once it was, <hi>may sweat at harvest work, and be cold at pulpit work;</hi> Bu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to speak out plainly, though he with us takes your return of you<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> papers th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nkfully. (To the return of ou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we know
+<pb n="9" facs="tcp:107210:5"/> not what to say, it is left to others) yet he gives you to know he could not give himself the trouble to read one line in yours) though that one might have told him your sense of more, yet he could not weary himself about it; and why not? he gives you this Reason.</p>
+         </div>
+         <div n="2" type="section">
+            <head>Sect. 2.</head>
+            <p>HE hath read as much as you have said here, or he beleeves can say hereafter for your Church way, and walk there<g ref="char:EOLhyphen"/>in, in other Books which he hath met with, more then a good many, and read them over with as much consideration as needed in those matters, you know not how often; for being legible, he could pass through them without much wea<g ref="char:EOLhyphen"/>riness to his eye, though with no little regret, or nauseious<g ref="char:EOLhyphen"/>ness to his <hi>Genius,</hi> or Disposition, there being no <hi>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>light in the Cuckows song,</hi> and <hi>his crambe mors,</hi> was you know, the old Proverb: Such a thing it is to make all our sayings, and doings to carry level with this Nation of a <hi>National Church,</hi> such as the Jews was, and the <hi>principles of Infant Baptism;</hi> He sayes farther, if please you to hear him out, That he be<g ref="char:EOLhyphen"/>lieves your <hi>Champion</hi> or <hi>fore-man</hi> of your Herd (by your com<g ref="char:EOLhyphen"/>mendations of him he de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erves so to be) who hath given in his <hi>verdict</hi> as to these matters, Mr. <hi>Humph.</hi> he means, is as ful of reason for your way and practise, as the heart of a fool, <hi>The Devils house is full of folly, and empty of grace.</hi> What <note place="margin">Mat. 12. 44,</note> can be said after him for <hi>free admissi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n—</hi>and so forth? And yet he verily beleeves to tell you his faith, as to that man, and those matters, That if there be any one Minister throughout, all the Nation, that ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h reproached the foot-steps of the <hi>Lords Christ,</hi> more after our English, the <hi>Lords Anoynted,</hi> your-fore man Mr. <hi>Humph.</hi> is he; consider him throughout <hi>a capite ad calicem,</hi> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om head to foot, and you find not his <hi>second;</hi> unless for honour sake, you would be thought fit to be he. You have a sayi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in the <hi>Civil Law, He that hath in<g ref="char:EOLhyphen"/>jured one, hath threatned m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny.</hi> Mr. <hi>Humph.</hi> hath injured <note place="margin">Cant. 5. 10.</note>
+               <hi>One,</hi> the <hi>chiefest</hi> or more to the letter, the <hi>Standard bearer of ten thousand,</hi> with whom not any in Heaven o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth is
+<pb n="10" facs="tcp:107210:6"/> matchable, <hi>Gods Ensign bearer</hi> before the Nations, under which the whole <hi>Army of Saints, do encamp and fol<g ref="char:EOLhyphen"/>low.</hi>
+            </p>
+            <p>This <hi>chiefest One,</hi> this man of the Earth hath injured, and in so do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, if you can believe it, you can conclude what he hath done, <hi>threatned many,</hi> sure enough all the <hi>Armies</hi> in H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aven and Earth <hi>that follow Him.</hi> All the <hi>Saints</hi> that worship Him, all the <hi>Angels</hi> that adore H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, their <hi>Standard or Ensign bearer before them:</hi> This <hi>terrae filius,</hi> this Son of the Earth hath injured this <hi>One, chiefest of ten thousand,</hi> and so hath m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re then <hi>threatned</hi> all the <hi>Armies of Heaven and Earth:</hi> But his <hi>folly</hi> or <hi>madness,</hi> you may render it is <hi>ma<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ested,</hi> he shall not <hi>proceed</hi> much farth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r: Therefore Sir, for your caution, please you to take it: If you persist in his way, which you more then seem to do, and justifie as you can, his, and your doings in Gods house. Look you well to it what Reasons you give to justifie the same, and as your good Bro<g ref="char:EOLhyphen"/>thers advice is to his Readers, <hi>Read and pray them over a<g ref="char:EOLhyphen"/>gain,</hi> else it may be feared you cannot study practical Truths, at least you cannot practise them.</p>
+            <p>Surely Sir, This concerns you the more, and at <hi>such a time,</hi> considering the season: that the Lord is now <hi>calling his peo<g ref="char:EOLhyphen"/>ple out of Babylon:</hi> he hath spoken touching this thing a <hi>Century</hi> of years, and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, by past and gone. And when he spake, something was done, as our Chronicles tell us: And who opposed then in our K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <hi>Edwards</hi> days, and afterwards in Queen <hi>Elizabeths</hi> of blessed memory, standing up in their might against it, you by reading may understand. But now Gods people understand by books, that the <hi>set time is come.</hi> The Lord God is <hi>speaking now with strength of hand:</hi> and it <note place="margin">Isa 8. 11. Zach. 14. 17. Rev. 8. 4.</note> sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be done: His Children shall all come out of <hi>Babylon,</hi> hearing the threat, and fearing before the Lord. And they that will stay behinde minding their ease and profits there, like those baser sort of the Jews, who, when liberty was proclai<g ref="char:EOLhyphen"/>med for their return to <hi>Jerusalem,</hi> where they might enjoy God in his true worship, chose rather for <hi>filthy lucre sake,</hi> and other <hi>fleshly advantages to stay in Babylon, and serve a<g ref="char:EOLhyphen"/>mong</hi>
+               <note place="margin">1 Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 4. 23.</note>
+               <hi>the pots:</hi> These we were saying, in whose hearts <hi>it is to
+<pb n="11" facs="tcp:107210:6"/> live and to dye</hi> with that <hi>cursed Harlot, Mother of fornica<g ref="char:EOLhyphen"/>tions,</hi> shall suffer according to their choice, for being <hi>parta<g ref="char:EOLhyphen"/>kers of her sin, they shall receive of her plagues:</hi> And they that rise up in their might now against this glorious work, and to obstacle their comming forth from thence what they can: Mr. <hi>H.</hi> we mean, with all the Ministers of his way and per<g ref="char:EOLhyphen"/>swasion, the carnal Ministers all over the Nation (we mean not <hi>less spiritual,</hi> who may be babes in Christ, but wholly carnal) shall be left, where they are in their <hi>dead sleep,</hi> and shall not <hi>find their hands:</hi>
+               <q>They may think they have gone <note place="margin">Psal. 76. 5.</note> through their <hi>head work,</hi> as that learned Expositor sai<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, but they shall never get through their <hi>hand work.</hi> For as it hath <note place="margin">Upon Job. 5. 28.</note> been, so it shall be; the men of Craft found their heads; but the men of might, blessed be God, have not yet found their hands to execute up to the height of the Dev<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sers either <hi>will</hi> or <hi>malice.</hi>
+               </q> The Lord brought the Council of the Hea<g ref="char:EOLhyphen"/>then to naught; he maketh the devises of the people of none effect. In the next verse, he subjoynes, <hi>The council of the Lord standeth for ever, the thoughts of his heart to all Gene<g ref="char:EOLhyphen"/>rations.</hi>
+               <note place="margin">Psal. 33. 10.</note> And as the counsel of the Lord stands, so he causeth the counsel of those to stand, that consult for him: <hi>He confir<g ref="char:EOLhyphen"/>meth the word of his servants, and performeth the council of His messengers, Is.</hi> 44. 26. so as they shall go through their Head-work and Hand-work both.</p>
+            <p>O how good safe and pleasant a thing it is to have Head, Hand and Heart laid out and imployed for the wellfare of that <hi>City,</hi> whose name is called <hi>The Lord is there.</hi>
+            </p>
+            <p>And this be spoken in our dearest respect to you, because <note place="margin">Ezek. 35. 10.</note> we find you not changed a whit, as to your good opinion you have had of Mr. <hi>H.</hi> and his way, the <hi>rode</hi> way of <hi>your Church,</hi> of all the carnal Ministers there: and how gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eved are we to observe you acting the same part, and your foot so fixed in that way, we say not, but the Lord knows, and he perswade with you, and then it is done. And yet we have some hope that you have not read over his Books, as you call them though you speak, you know when, <hi>Sesquiped<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> big and broad words of them. And was it possible your second thoughts should keep up to the heighth of that commendati<g ref="char:EOLhyphen"/>ons?
+<pb n="12" facs="tcp:107210:7"/> Yet we remember it is as natural to us as to laugh, <hi>lo<g ref="char:EOLhyphen"/>ving the person, to love his error too, specially when our own, We are more then pur blind, as in the person, so in the thing beloved.</hi> O how well doth the person please us, whose way pleaseth! yet we t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll our perswasion, this was before you had throughly read them; for if so, we would think you would have observed what he that runs may observe, <hi>how he clashes phrases, and rebounds against himself,</hi> to say no more, and as little as can be said, we would hope also, and be almost confident, you have not read his <hi>Sermon</hi> (as it is com<g ref="char:EOLhyphen"/>monly called) upon <hi>Mark</hi> 14. 23. An excellent text, but utter<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>Aelian de var. Hist. lib,</hi> 14. <hi>cap.</hi> 39.</note> marred, worse then he the <hi>sent of his Roses,</hi> which he pre<g ref="char:EOLhyphen"/>sented to a great person, but made them very unpleasant and as unwelcome, by the means, he thought, to better and in<g ref="char:EOLhyphen"/>gratiate them, <hi>with his own perfume.</hi> If you had throughly read that Sermon, and considered what you read, it is our perswasion, you would have said of the Preacher, <hi>if he be a Divine,</hi> he is one of the worst in all your Church; the old saying being granted, <hi>He is the best Divine, that keeps best to his Text,</hi> and <hi>he the worst that runs farthest from it.</hi> Yet <note place="margin">Optimus text. Optimus The.</note> this is not the worst—hee—but tell your selfe that, when you have read him, if you like not to read what those four worthies have written against him—we forbear, for what can be said more after them? Besides as on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said of an unsa<g ref="char:EOLhyphen"/>vory writing, <hi>sentio me defaece haurire,</hi> we draw at a pump or sink, while we are pudpering in his Books, desperately moun<g ref="char:EOLhyphen"/>ted, and so levelled at the very apple of the eye; <hi>The glori<g ref="char:EOLhyphen"/>ous face of Reformation, The heart of Religion, The purity of Profession, The life of Grace, The power of Godliness.</hi>
+            </p>
+            <p>That you may study practicall Truths, and practise the same, come off from him and his way, least you perish in that way, the <hi>rode way</hi> of the world sure, <hi>not separating from the world,</hi> not <hi>at the Lords Table.</hi> Not our counsel, nor our threat, but as we conceive, the counsel of God unto you, and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s threat, if you do it not. You will pardon our bold<g ref="char:EOLhyphen"/>ness, for what can we tend to in g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving or taking good coun<g ref="char:EOLhyphen"/>sel, but this so desirable a thing, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the day of our D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssolu<g ref="char:EOLhyphen"/>tion, <note place="margin">Mr. <hi>Will. Lyford.</hi>
+               </note> as that worthy man said when he was dying, may
+<pb n="13" facs="tcp:107210:7"/> be more comfortable to us, <hi>then was our marriage day.</hi>
+            </p>
+         </div>
+         <div n="3" type="section">
+            <head>Sect. 3.</head>
+            <p>THis we say more, That the Papers we sent you at your earnest request, were not by way of contest, thereby to give an occasion for the Reciprocation of a saw of debate with you or any other. But to give you our Reasons for our con<g ref="char:EOLhyphen"/>scientious dissent from Mr. <hi>Hr.</hi> his way and yours, since yours is his. Now whether you hear or forbear, accept, or re<g ref="char:EOLhyphen"/>ject, is not the burden of our care, unless, as we have said, upon your own account. We do not more tenaciously, then <note place="margin">Cant. 1. Isa. 35. 8.</note> conscientiously hold the way chalked forth, and tracked (be<g ref="char:EOLhyphen"/>ing and high and causey way) by the foot-steps of the flock, And swarving there-from, yea but a little, a <hi>child,</hi> we hope pointing us to the way, from whence we are declined, shall lead us in it by the <hi>clue of sacred Scripture</hi> in his hand; But if he shall decline from that, which <hi>followers of God as deare Children,</hi> do not wittingly do, the greatest <hi>Goliah</hi> in your National Church, is but a Child or Infant of days in our ac<g ref="char:EOLhyphen"/>count, who yet may be an old man in account of years.</p>
+            <p>And so we will take off our hands from this pulling and thrusting a line of Debate, like a Saw, to and fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> betwixt us, by Reciprocation of Answers; for <hi>cui fini,</hi> or <hi>bono,</hi> to what end, and who shall have the profit? we may say as to the <note place="margin">Mat. 28. 8. Mark. 14. 3.</note> Reciprocation of this Saw of debate; <hi>To what purpose is this waste</hi> of time, and spirits, we say, and purse too; why this waste? you say to justifie your free Admission to all Church Administrations, <hi>The people are all holy; and</hi> Sancta Sanctis; <hi>holy things to holy persons.</hi> We say all are not holy, but vi<g ref="char:EOLhyphen"/>sibly, or in sight some are, and they very many, <hi>unholy,</hi> and <hi>unclean,</hi> as are <hi>Dogs</hi> and <hi>Swine,</hi> therefore give not that <note place="margin">Mat. 7. 6.</note> which is holy unto them, saith our Lord; yet say you, you know what. <hi>Tares visibly, and apparently Tares,</hi> openly wicked before <hi>Israel,</hi> and before the Sun, are not fit to live in a civil society, but are cut off, say we: <hi>They are fit to live in a Church-Society though; to be admitted to Church-Com<g ref="char:EOLhyphen"/>munion
+<pb n="14" facs="tcp:107210:8"/> notwithstanding</hi> say you. You will account all <hi>with<g ref="char:EOLhyphen"/>in,</hi> till the Magistrate shall cast them forth. Well; but why all this waste? or to what end the Reciprocation of this Saw? To speak thereunto a little more, <hi>That all are holy,</hi> will an<g ref="char:EOLhyphen"/>swer all that can be said; which answer of yours ye have put so often to the ears of your people, that now it is in their hearts to live and dye with it in their mouths, <hi>They are an <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly people, and as such to be accounted, and dealt out unto:</hi> And so they are rendered, as we say, but the word is too short, as <hi>Judgement proof,</hi> so also <hi>Sermon proofe</hi> against all the <hi>Artillery</hi> mounted against them in Gods word; all that <hi>volley of woes</hi> thundered out against them by the Sons of thun<g ref="char:EOLhyphen"/>der; Let <hi>Aethiopians, Turks, Jews, Infidels</hi> be affrighted at the hearing of this thunder: They were born in a Church and baptized there, and <hi>eo nomine,</hi> &amp;c. should they not do well to make a feast, as <hi>Herod</hi> did on their birth day; quite forgetting their <hi>birth-sin</hi> (washed away, they may think in their Baptism) yet hath it given conception to all their mighty sins, and manifold transgressions, as also to all the sorrows of their life; Well, what more? Nay we know not, for say what can be said against this generation of men, and against their Admission to Church Communions, who are of their <hi>Father the Devil, for the lusts of their father they will do.</hi> What though? ye have armour of proofe, like <hi>Achilles</hi> his Buckler, or Target, which will bear off all this, it shall not come near them. Ye have a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an universal An<g ref="char:EOLhyphen"/>swer, <hi>We are a Church, and all holy;</hi> we may call it, we think <hi>an universal Remedy,</hi> or by that name an <hi>herb</hi> is called <hi>All-heal,</hi> we are all healed at Baptisme, and now are all <hi>holy,</hi> and <hi>eo nomine,</hi> we are to be admitted, and so forth; which minds us of what blessed <hi>Perkins</hi> saith, in reference to <hi>univer<g ref="char:EOLhyphen"/>sal grace</hi> pleaded for (take it in passage) <hi>It is universal A<g ref="char:EOLhyphen"/>theism,</hi> said he. But to proceed, Just so that Generation be<g ref="char:EOLhyphen"/>fore us, with whom the Lord hath dealt as <hi>pleased him,</hi> put off all our Lord Christ s<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id to them, or against them, or his Prophets before him; <hi>We are an holy seed, as our father Abrrham was, so are we;</hi> he is <hi>our Father, and we his Children.</hi>
+            </p>
+            <pb n="15" facs="tcp:107210:8"/>
+            <p> And now that our thoughts are upon this, we wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take leave to read that <hi>Dispute</hi> we meet with in the eighth of <hi>John</hi> and the issue of it, and thence conclude what will be the issue of ours; <hi>I know,</hi> saith the Lord Christ, <hi>that ye are Abrahams seed</hi> (after the flesh) but ye are the Devils seed, having his spi<g ref="char:EOLhyphen"/>rit, for ye <hi>seek to kill me, because my word hath no place in you,</hi> verse 37. <hi>ye have his spirit sure, for ye do what ye see your father do,</hi> verse 38. They turn upon him with this, <hi>Abraham is our Father.</hi> That cannot be, saith the Lord, for then <hi>ye would do the works of Abraham,</hi> you would walk in his steps. <hi>But ye seek to kill me, a man that hath told you the Truth, which I have heard of God: this did not Abraham; you do the deeds of your Father,</hi> vers. 40, 41. They reply, we be not a bastard like breed. Thou shall never drive us from this <hi>hold-fast,</hi> or make us beleeve that <hi>Abraham</hi> is not our Father, we will call him father on earth, and God our father in Heaven, for he and we <hi>have one Father, even God,</hi> vers. 41.</p>
+            <p>Ye are wholly mistaken, saith the Lord, if God were your Father, <hi>ye would love me,</hi> verse 42. for every <hi>one that loveth him that begat, loveth Him also that is b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gotten of Him,</hi> 1 Joh. 5. 2, Love the Father, love the Son, but ye seek to kil the Son, which will witness against you, <hi>ye are of your Fa<g ref="char:EOLhyphen"/>ther the Devil, and the lusts of your Father ye will do,</hi> verse 44. Then answered the Jews and said unto him; say we not well, that thou art a <hi>Samaritane, and hast a divel;</hi> thus they will have the last word, and therewith their privil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge, which it but a poor one, <hi>To have Abraham for their Natural, and the Devil for their Spiritual Father:</hi> But this is after the manner, and there is the issue of the dispute, and so we have read the issue of ours; therefore why all this waste? we wil cease, as was said, from this pulling and thrusting a line of de<g ref="char:EOLhyphen"/>bate, like a Saw to and fro betwixt us, by Reciprocation of Answers, that we may in this brief return a few words to those personal matters in your Paper, which some one of us at length stumbled upon: And first,</p>
+         </div>
+         <div n="4" type="section">
+            <pb n="16" facs="tcp:107210:9"/>
+            <head>Sect. 4.</head>
+            <p>IN reference to our Pastour (we think the word is very p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oper) some things have been said in vindication of him. Not for his own sake, his reputation, or name sake, we mean, which is fallen indeed into the mouths of Dogs, and under the feet of swine (if any such there be in your Church) and it makes not much, say we, and so thinks he, being the case ever of his betters, the best and most upright, that ever were in the world. Moreover the Pearle lieth there, and it is good being now, and ever where the Pearle is: and therefore we could not press on for his rescue, had we strength that way for his own sake, how deserving soever he might be, but for the peoples sake, over whom God hath placed him, we stand charged to rescue His name what we can, from out of the mouths of Dogs, and from under the feet of Swine, minding our selves, and reminding you of <hi>Aug.</hi> good saying, <note n="(a)" place="margin">Nobis fratres sufficit con<g ref="char:EOLhyphen"/>scientia no<g ref="char:EOLhyphen"/>stra, sed propter vos etiam fama pollêre debet.</note>
+               <hi>for our selves Brethren, our Consciences sufficeth, but for you our name also had need be pretious and honourable, for we would have our words savour sweetly with you, then must our name as well as our words, be sweet and pretions to you.</hi>
+            </p>
+            <p>Of our selves we have spoken also, so you compelled us, charging us, we thought, with little less then <hi>Heresie,</hi> under the suspition or charge whereof, <hi>no man should sit still and be</hi>
+               <note place="margin">In suspicione Haeresios nolo quempiam es<g ref="char:EOLhyphen"/>se patientem.</note>
+               <hi>patient. You can suffer fools gladly, seeing you your selves are wise.</hi> But for that heavy charge, <hi>that we engross,</hi> and so forth; The Lord judge between you and us: and if we have given any the least offence to any Godly man, that cannot walk with us, the Lord shew it us: and if any offence be taken, as certainly it is, you and he may consider, it is but taken; which ye cannot answer before your God, being taken up upon re<g ref="char:EOLhyphen"/>port or suspition onely, without any tryal, or making the least search into the ma<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter. For your selfe Sir, we know your way, and we see your walk, as to <hi>Gospel administrations,</hi> full up with Mr. <hi>H.</hi> as cross to the way of Christ, and foot-steps of his flock, in our apprehension, as the <hi>broad way</hi> is to <hi>the nar<g ref="char:EOLhyphen"/>row.</hi> And so being, as the Scripture doth judge of it, a <hi>meer
+<pb n="17" facs="tcp:107210:9"/> offence to the Lord Christ,</hi> and his people, you may consider what love, and brotherly respects you have, or can shew to him, or them that must decline M. <hi>Hs.</hi> his way, as they will an huge Serpent in their Path. Other matters you point at, wholly mistaking, we think; and then mis-judging or perve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ting the scope or d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ift thereof, for want of you know what, wherein men of Mr. <hi>Hs.</hi> his way and judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment, for the most part, are wholly wanting. <hi>Charity hath a large man<g ref="char:EOLhyphen"/>tle,</hi> as we have heard, and can make a fair gloss upon a foule Text. We are sure, as clear a <hi>Comment,</hi> as can be upon a dark Text. It deals as tenderly with a mans meaning, as with a mans eye. In the second place, and so to mention your Ex<g ref="char:EOLhyphen"/>ceptions in due order.</p>
+            <p>We be-beast a man, say you, you should adde what is added, if he turn his back upon the word of his grace, as he more then seemed to do; you may add this also, a be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st he is, if it was never manifested to him, that he was a <hi>beast,</hi> and so he never <note place="margin">Eccles. 3. 18.</note>
+               <hi>be-beasted himself,</hi> as the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st men have done, having so much of the <hi>beast</hi> in them; surely every man in his sinful state is a beast, and did he know himselfe, would call himselfe a beast; when <hi>David</hi> for one sinful act calls himselfe a <hi>Behemoth,</hi> a <note place="margin">Psal. 73. 22,</note> grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ast before the <hi>Lor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> but take it at the worst, the man<g ref="char:EOLhyphen"/>ner of men so to do, and so be it granted, we <hi>be-beast a man,</hi> say you.</p>
+            <p>So may we do, we think, and by as good warrant, as you <hi>be-Saint him,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his fellow Brethr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in the same <hi>iniquity</hi> with him, because he was baptized in the Churc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and <hi>eo nomine,</hi> and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth: <hi>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is not Christian-like so to do, say you, or to that purpose, if we und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rstand you.</hi>
+            </p>
+            <p>Ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay we, <hi>John</hi> the Baptist was a good Christian sure, yet doth he <hi>be-beast</hi> a generat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of men, who did pass for as good men in common account, as most of the <hi>Clerk</hi> in most of the Parish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s over this Nation. <hi>Matth.</hi> 3. 7. And <hi>Peter</hi> spake much after the same ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to <hi>Sim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Mag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> after he had made himselfe manifest, <hi>Acts</hi> 8. 23. Ye remember as well what was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid to <hi>Elymas</hi> the So<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cerer, <hi>Acts.</hi> 13. 10. <hi>When Tares app<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar Tares, you may c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll them Tares;</hi> But while they look like Wheat, as in some places they did, as you have
+<pb n="18" facs="tcp:107210:10"/> read, and so may they look now in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pp<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ance like Christians; and for a time; then all that time of their <hi>non-appearance,</hi> to be what they are, <hi>close Hypocrites;</hi> you and we must beware of rash judgem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt. <hi>But if the shew of our countenance doth</hi>
+               <note place="margin">Isa. 3. 9.</note>
+               <hi>witness against us,</hi> and we declare <hi>our sin like Sodom,</hi> then charity it selfe will allow you (if your heare will give you leave, and your tenderness of your C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch, where all are holy) to <hi>be beast us,</hi> if you please, or if your <hi>genius</hi> finde some re<g ref="char:EOLhyphen"/>great at that <hi>beast-like</hi> word; you may call us <hi>sinners before the Lord,</hi> or <hi>Sodomite,</hi> and worse, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause we live in a land <hi>of visions. Smooth words</hi> are as <hi>prophesying deceits,</hi> thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> please us now, but undoe us for ever; Therefore let not this move with you, to deal in terms more gently or smoothly with us, because we were <hi>born</hi> and <hi>baptized in your Church</hi> (which we have acknowledged a great priviledge) Wherein this Nation highly transcends all the Nations in the world, where the Gospel is preached, when we consider our Church-priviledges and visible Prerogatives) Notwithstanding the ra<g ref="char:EOLhyphen"/>ther do you <hi>be-beast</hi> us as much, and as often as you please, the holy Scripture will be your warrant, if we, <hi>declaring our selvs to be beasts,</hi> while we declaring; as aforesaid <hi>our sins like Sodom.</hi> For to adde this which one of us have read, <hi>Men are worse then Beasts, when they do worse; their prehemi<g ref="char:EOLhyphen"/>nence of constitution is lost in the baseness of their actions, and they pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themselves by so much inferior to beasts, by how</hi>
+               <note place="margin">Phil. 3. 2.</note>
+               <hi>much they were placed above them.</hi> But to <hi>be-beast men doth not argue us humble, say you.</hi> Nor will it argue us proud, say we, <hi>Paul</hi> was no proud person, and yet did he <hi>be-beast</hi> a great company, c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling them <hi>Dogs</hi> in one place, and <note place="margin">Titus. 1. 11.</note> bids <hi>Titus</hi> remember, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t one of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r own Prophets said of the <hi>Cretans</hi> calling them <hi>evil beasts.</hi> We know how you argue from that place, let it pass; being not to our purpose here.</p>
+            <p>But truely, for ought we can learn to the contrary, the worst of that company, who are called <hi>Dogs,</hi> might be as good (all things considered) as the Cle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k you wot of; for possible it is, though we hope so it is not, he may be, as too many of that <hi>calling</hi> ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in too many Parishes, over your National Church,
+<pb n="19" facs="tcp:107210:10"/> the veriest Varlets there, considering their <hi>Clerk-ships,</hi> and yet as frequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntly at the Lords Table, as their <hi>Masters</hi> are, the Mi<g ref="char:EOLhyphen"/>nisters here, and the second man, that is served, after the Mi<g ref="char:EOLhyphen"/>nister hath served himselfe. We will adde this, if it please y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u, the Lord Christ did little less, then <hi>be-beast,</hi> at least he did not <hi>be-Saint</hi> those against whom he denounced so many wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; nor was he uncharitable sure in so doing. To proceed.</p>
+            <p>In the third place, <hi>We are loth to call some men Ministers, say you.</hi> Indeed we are loth to call them such whom the Lord accounts not such, not finding them faithful, as is requi<g ref="char:EOLhyphen"/>red Ministers of the Gospel and Stewards in his house should be. And such we think you would not call M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nisters, nei<g ref="char:EOLhyphen"/>ther were it not for the honour you give to your Church, your Church-men, and Church-way where all and every one is <hi>holy</hi> that walk in it, not one <hi>unclean</hi> or <hi>Lyon</hi> there. Haply you may have a respect to your own honour also, for if he or they prove b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, you will not be approved very good; for remem<g ref="char:EOLhyphen"/>ber you may, that you and we were called upon, when time was, to do as was our duty, <hi>lest we be partakers of oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r si<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> giving our hands for them, the manner of some whom the <hi>Lord will not take by the hand,</hi> and so making our selves <hi>as one of them,</hi> and as guilty before the L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, by <hi>justifying the wicked,</hi> as by <hi>condemning the just, For even they both are an Abomination to the Lord,</hi> Prov. 17. 15. And,</p>
+            <p>4. In the fourth place you tell us, <hi>That you will decline Mr.</hi> H. <hi>and his way, when we have made good our charge of Blasph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my against him;</hi> To that purpose if we can reach you.</p>
+            <p>It seems then, you will separate from none, no not at the Lords Table, but Blasphemers in your sense; and then m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y you j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in your self with <hi>Ranters</hi> and <hi>Quakers,</hi> for neither of both, as we conceive, will be found guilty of that kind of Blasphemy, which was punished with death, and which you seem to point at.</p>
+            <p>But Sir, more of your charity might have been desireable here. Surely we shall make it appear to the world, however it appears to you, we charge him not with blasph my in your sense, though we acknowledge the same or such like word
+<pb n="20" facs="tcp:107210:11"/> might pass from us, nor see we cause yet to recall it, as thus, <hi>The way of Truth hath been evil spoken of by him,</hi> which <note place="margin">2 Pet. 2. 2.</note> you may safely render we think <hi>Blasphemed,</hi> for so, as we have heard the Greek doth, and so may we, though that word sounds more high and harsh. <hi>Blasphemy</hi> is of as large an extent, and general acceptation in the Scripture, as your <hi>Disciples</hi> and <hi>Saints</hi> are. And you might have dealt as chari<g ref="char:EOLhyphen"/>tably in your interpretation of the one, as you do in the other. There is <hi>Blasphemy in a large sense, and blasphemy in a strict sense;</hi> So you say of your Saints; (we neither say it, nor ac<g ref="char:EOLhyphen"/>knowledge it, you do) but had you said as much of the other, (for which you have ground enough in the Scripture) you had said nothing as to that charge against us in your friends behalf. Would we could be as much aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, hearing the name of our God, and his Truths contradicted and blasphemed, as we are hearing the name of our friend <hi>spoken evil of.</hi> This would argue us more then <hi>almost altogether Christians.</hi>
+            </p>
+            <p>Yet take your saying, whereto we only say this to vindicate our questioned, we think, and wronged charity towards the Man of your perswasion. That we wish him as well as you do; and tender his well-fare here and hereafter, as much and more then you can, while you walk in the same way with him, in point of <hi>Free Admission to all Church Administra<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Nor can we take, as we judge, a readie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way to shew it, but to convince you bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, as we can, of the iniquity of your way, wherein you walk together as friends. Why Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is many <hi>woful Rebukes,</hi> the Godly Ministers have denounced a<g ref="char:EOLhyphen"/>gainst those they wish dearly well unto. These are not as learned <hi>Bez<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> saith, <hi>Imprecations,</hi> but <hi>pred<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions of what</hi>
+               <note place="margin">2 Pet. 2 11. <hi>Illud vae</hi> and <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> Greek note upon the place.</note>
+               <hi>will be if they hold on in their way,</hi> And so to adde this, they are <hi>deprecations rather,</hi> or <hi>earnest intreaties,</hi> T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at they would withdraw their foot out of their own way of sin and death. So much to that charge. And</p>
+            <p>5. In the fifth place for Mr. <hi>Nut:</hi> whom we call, say you, the great Disputer in the Country.</p>
+            <p>Possibly we said so, and let it go, for we say what we know, and as many as we know <hi>intus &amp; in cute,</hi> say the same thing of him also.</p>
+            <pb n="21" facs="tcp:107210:11"/>
+            <p>
+               <hi>But you say we speak so of him, because we know him not.</hi> Yet we know him, and ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore we speak so of him.</p>
+            <p>
+               <hi>But if we know him indeed, we would speak of him (as o<g ref="char:EOLhyphen"/>thers do)</hi> What do others say of him, but what we say too? <hi>That he is a good man we hope, and full of the holy Ghost and of Faith?</hi> And yet of these things he may be put in re<g ref="char:EOLhyphen"/>membrance, and charged before the Lord, and we beleeve so may you too; <hi>That ye strive not about words to no profit, but to the subverting of the Hearers.</hi> There are Disputers of the World; we must see to it, we be not in that number whom <hi>God hath made foolish and will destroy.</hi> Most assured we are, That if ye could take Blessed <hi>Tindals</hi> good counsel, in his good Letter to his good Brother, ye would leave off your disputings, which <hi>Paul</hi> would number amongst those foolish <hi>questions and strivings we are bid to avoid,</hi> and apply your selves to main and necessary Truths putting it to the Question, and re<g ref="char:EOLhyphen"/>solving it from the Word and Spirit there (for you will not take a single witness) <hi>Am I a member of that body whereof Christ is the Head, and the Saviour? Is my heart sprinkled from an evil conscience? Is my body washed with pure water?</hi> There is the Baptism indeed; yet do we account, as highly of the other, The <hi>Infants priviledge</hi> as you do, if you do no more, then you ought, and have warrant from the Lord to do, as a <hi>seal to Gods promise, that sin shall dye.</hi> And for them that oppose Infant Baptism, rising up in their might against it, some of whom fear God above many, though yet one among us hath read so much of them, and their doings, beyond the Seas, and here at home, together with their <hi>Jehn-l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke</hi> march, or driving on their way, that we can hardly contain, but let <note place="margin">2 King. 5. 10.</note> flye against them; see what spirits we have I but the Lord re<g ref="char:EOLhyphen"/>buke them, lest we prove our selves as furious as they, for that is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epithite we hear, was and is still given unto them, wherever ye read of the fore-men and leaders of them. But <hi>soft words and hard arguments</hi> are more becomming, and likely may do more go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, if earnest prayers go a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich do as well in <hi>arguing as in realling.</hi> So it may appear, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e seek nor o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>selves at all, but to gain an erring bro<g ref="char:EOLhyphen"/>ther, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, speaking the truth in love. And that we <note place="margin">Eph. 4. 15.</note>
+               <pb n="22" facs="tcp:107210:12"/> prize a soule, as we do the truth, that the one may be saved, and the other have the victory; which doubtless shall be: stay but a while, and we shall see it, and the fight will be glo<g ref="char:EOLhyphen"/>rious. In the mean time we should remember, The <hi>Lord of the whole earth commands us silence,</hi> till he shew us his war<g ref="char:EOLhyphen"/>rant to speak; and having that, speak we may, and spare not, and <hi>be not slack</hi> or <hi>slow in the business.</hi> For we conceive, as our betters do; the Apostle doth not speak positively; <q>Let <hi>every man be slow to speak;</hi> flowness or heaviness, not be<g ref="char:EOLhyphen"/>ing a vertue, nor any mans commendation: But he speaks comparatively, <hi>Be swift to hear, and slow to speak;</hi> that is, he ye more nimble with your ears then with your tongue; <note place="margin">Jam. 1. 19.</note> Be rather willi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g to receive instruction, then forward to give it; rather attend the mind of others, then open your own. But when you open it, open not your folly with it; which we cannot but do, if we open or make shew of the <hi>least wrath,</hi> which is but as the outward <hi>flashings</hi> in the face, that show the distempers to be much within.</q> We would be more large, that we might be more plain, and clear our selves to you, and your good Neighbour in this matter. But this only we can take time and think necessary to adde.</p>
+            <p>If your said Neighbour be such a man, as you account him to be, and we hope he is, he will take all well, and amend what is amiss, meditating upon <hi>necessary things,</hi> as they use to do, <hi>who give themselves wholly to them,</hi> that <hi>their pro<g ref="char:EOLhyphen"/>fiting may appear to all.</hi> But these are the Questions he will put to others, having through the supply of the Spirit, and witness thereof, resolved them in his own soule first. In the last place.</p>
+            <p>6. You make some mention of your worthy Brother Mr. <hi>F.</hi> as we apprehend i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, so we shall speak to it, we have upon a just account, as we conceive, put in our Exceptions against some passages in his book for <hi>Infant Baptism</hi> towards the lat<g ref="char:EOLhyphen"/>ter end. And if we can spell your meaning, and answer to us, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to that particular, he intends a <hi>second Edition;</hi> We wish him and his labours prosperity in the Name of the Lord; And truely so much we honour him, and so heartily, that we desire that Book as well as his other, might have been com<g ref="char:EOLhyphen"/>mended
+<pb n="23" facs="tcp:107210:12"/> in whole, and every part, as he to his friend <hi>without an Exception;</hi> which we think will not be by him or them, that shall approve themselves <hi>unbiassed Readers,</hi> giving so much and no more to Infant Baptisme, then what they who have the <hi>mind of Christ</hi> give unto it. We are more then jea<g ref="char:EOLhyphen"/>lous your brother leanes some thing too much to one extream, because others leane so much to the other, magnifying Bap<g ref="char:EOLhyphen"/>tism so much, because others do so much vili<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie it; so hard a thing it is, yea impossible to flesh and blood to <hi>follow after Christ,</hi> just behinde Him, with an eye fixed upon that guide <note place="margin">Math. 10. 38. <hi>Lege Bez.</hi>
+               </note>
+               <hi>that leads into all Truth</hi> in the directions of his word, <hi>lea<g ref="char:EOLhyphen"/>ning</hi> neither to the right hand nor to the left. This only more we would now say to that particular: Let i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> please him to look over the bottome of <hi>pag.</hi> 80, together with 81, 82, 83. And then take the good counsel himselfe, he so piously gives to his Readers; <hi>Read those passages again; and pray them o<g ref="char:EOLhyphen"/>ver,</hi> so perhaps he will see cause to correct some lines there, and blot our some other, where <hi>multae non poterunt, una li<g ref="char:EOLhyphen"/>tura potest, where many blots in some page will not serve the turn, one will.</hi>
+            </p>
+            <p>Reminding one passage more in your Paper, we thought fit to say this to it, that indeed, <hi>laus a la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to,</hi> as the man is, such is his <hi>strength,</hi> and such is his <hi>praise,</hi> and so being sea<g ref="char:EOLhyphen"/>sonably remembred of it, we may forbear.</p>
+            <p>For the close of this our Answer to your paper, we would say six things and so end.</p>
+         </div>
+         <div n="5" type="section">
+            <head>Sect. 5.</head>
+            <p>THat what words you have read here in our Papers, or may read hereafter spoken slightingly, as to your <hi>Disci<g ref="char:EOLhyphen"/>ples</hi> and <hi>Saints,</hi> they are pointed to those onely, who slight the word of Gods Grace, are enemies to the Cross of Christ, trample upon the Pearles like Swine, and turn back like Dogs to rent the Dispensers of the same: Do you <hi>be-Saint</hi> these, if you can see your warrant; ours is, we think, from God, to <hi>be beast</hi> them.</p>
+            <p>But Sir, to speak once more to this, and so an end of it;
+<pb n="24" facs="tcp:107210:13"/> we may and must do, what you must not do, while you <hi>sense</hi> and <hi>practise</hi> with M. <hi>Hs.</hi> you must not <hi>bi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beast</hi> those you <hi>be-Saint</hi> at the Font and Lords Table: else why do you admit them thither? for there is the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>randezvouz</hi> of all the very worst in all the Parish, unless the Magistrate will be plea<g ref="char:EOLhyphen"/>sed to keep them back; if not to drive them out, which we think, and think we have proved elsewhere, is to be <hi>too curi<g ref="char:EOLhyphen"/>ous in anothers Common wealth,</hi> as the saying is: Now we are far from sensing it with Mr. <hi>Hs.</hi> or with you, while you sense with him: for we are more then jealou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that he who hath declared himselfe an enemy to the purity of Christ, his di<g ref="char:EOLhyphen"/>scipline in his house, is no friend to the purity of his Doctrines. And therefore we must <hi>be beast</hi> those that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ample upon the Pearle, the Lord Christ and all with him, tendered to them in the Gospel; And being <hi>so full-of themselves, swept and emp<g ref="char:EOLhyphen"/>ty</hi>
+               <note place="margin">Mat. 12. 44.</note>
+               <hi>of all good</hi> (the Devils house still though some great and gross lust may be cast out, and the house garnished with mo<g ref="char:EOLhyphen"/>ral vertues and E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angelical gifts, which may be together with noysome lusts) we were saying: These so empty and swept of all goodness, as is the Devils house, can deale no bet<g ref="char:EOLhyphen"/>ter with the Lord Christ at his Table, then they did at the hea<g ref="char:EOLhyphen"/>ring place, but <hi>trample under foot the honey combe there,</hi> as <note place="margin">Prov. 27.</note> we would do, that we loath, and have indignation against, and that is <hi>Swine-lik<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> is it not? why then, whom you must call <hi>precious,</hi> we must call <hi>vile:</hi> look we both unto our warrant, that ye and we may <hi>so speak, and so do, as they that shall be judged by the Law of liberty,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am. 2. 12.</p>
+            <p>Yet we conceive the greatest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffence we have given you, at least you have taken against us, is, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause you read us some times rebuking your fore-man and L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de Mr. <hi>Hs. sharply,</hi> for as you may read <hi>cuttingly:</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aply also you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay think your selfe so rebuked. Also you think not amiss in so thinking: nor is it in proper that ye, two, acting the sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part as Brethren in the same way, and walking together as friends therein, sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld partake toge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her of the same Rebuk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, which the spi<g ref="char:EOLhyphen"/>rit of Christ in his word dot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cast upon your way.</p>
+            <p>And truel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could we separate betw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt you and your way, ye should have found the rebukes cast wholly upon your way.
+<pb n="25" facs="tcp:107210:13"/> But we could not distinguish here, no more then he could (whom there is cause enough to remember) distinguish be<g ref="char:EOLhyphen"/>tween the <hi>very good man,</hi> and very <hi>bad Common wealth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man,</hi> both one and the same man, I cannot distinguish here, said he (as able as he was, as any King you have likely read of) and so we are bold to remember you of the Story, being old and may be worn out of mind with age) <hi>For if the Di<g ref="char:EOLhyphen"/>vel take him as he a is very bad Common-wealths man</hi> (as like enough) for he is stark nought, who is naught in his relation) <hi>then what will become of him a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sseth for a good man?</hi> But to give you a short account of this, and to remove the offence what we can, and then proceed,</p>
+            <p>We have had through grace, some discerning all along these <hi>troublous times</hi> (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes of Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormation always) what the Lord God hath done for <hi>his own Nation, fearing God, and seeking Reformation:</hi> An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what he hath d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne against that o<g ref="char:EOLhyphen"/>ther N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion, Mini<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers and people there, Captains with their fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <hi>Blaspheming God and opposing Reformation;</hi> which tells us what he will do in after time, giving us to behold as with spen face, what he hath done, and what he is doing at this present time.</p>
+            <p>Now Mr. <hi>H.</hi> (we account it no honour to mention him so often, a blot rather to our papers, were it not we do it upon the account of Truth, which he hath slandered, and we would vindic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, and give our helping hand w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th others to confound him: if not, which is more desirable to convince him. Mr. <hi>Hs.</hi> we were saying) as a man that hath neither eye nor eare to observe what the Lord hath done, and is doing, hath to our seeming, appeared (which appears by his writings) as an<g ref="char:EOLhyphen"/>other <hi>Goliah</hi> at the head of this Army of Phil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms, we mean not onely that <hi>sink of scandalous and sup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rstitious,</hi> but the <hi>car<g ref="char:EOLhyphen"/>nal Ministers</hi> all over the Nation, who endeavour with all their might to undoe all that our good Lord hath done, in bringing us out of our <hi>Egypt,</hi> over our <hi>Red Sea,</hi> through our <hi>Wilderness,</hi> even to the borders of our promised Land, that blessed Reformation hoped for, to bring us back again into our <hi>Egypt,</hi> to return us into our <hi>Cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> or <hi>Babel</hi> of confusi<g ref="char:EOLhyphen"/>ons we were in, as we were, I and much worse. And are not
+<pb n="26" facs="tcp:107210:14"/> these <hi>Carnal walking as men,</hi> admitting, yea inviting all to the Lords Supper how sensual soever, though apparently with<g ref="char:EOLhyphen"/>out the spirit of God, visibly profane, openly debauched persons, scorners of holy things, loathing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he honey combe, trampling upon the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arl, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enting the dispensers thereof, treading u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der foot the blood of the Covenant, in whom the spirit of the world rules mightily, being children of disobedi<g ref="char:EOLhyphen"/>enc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; all these invited and admitted to eat and drink at the Lords Table, if the Ruler steps not in, and forbids these guests.</p>
+            <p>We demand again, are not these Ministers carnal? walk they not according to men, that are <hi>sensual</hi> not <hi>having the spirit?</hi> are they not enemies to that onely holy One, and that Reformation, which m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st be, for he will have it so, accor<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to holiness, <hi>Magnifical and Glorious,</hi> and so full up, we think, if not above the prayers and tears, the desires and endeavours of all his holy Ones. Now this man so often na<g ref="char:EOLhyphen"/>med, who marcheth in head of this Army of Philistims (we have not a fitter word) in a contradiction and meer opposi<g ref="char:EOLhyphen"/>tion to all that the Lord hath done, is now doing, and assureth his people he will do, and will no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be in <hi>rest</hi> unt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l he hath fi<g ref="char:EOLhyphen"/>nished <note place="margin">Ruth. 3. 38.</note>
+               <hi>this very thing,</hi> making the righteousness of his Church <hi>go forth as brightness, and the salvation thereof as a lamp that burneth,</hi> This very man, as we were saying, you Sir, little less then boasted of to one amongst us, as you may remember, charging us to give you an account of our way and walk therein, and our Reasons why we walk not with him, and your selfe in your way, more abhorring to us, upon Scrip<g ref="char:EOLhyphen"/>ture account, then is the grave, the light therein, which is as darkness it selfe or shadow of death.</p>
+            <p>And now if we must speak, as the charge of the Lord unto us is to do, being so pressed thereunto by your selfe, what else can we speak but <hi>rebuk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this man</hi> as oft as we finde him crossing our way and walk therein? And the same re<g ref="char:EOLhyphen"/>bukes to you, words like drawn swords to stop you in your way, to <hi>amuse</hi> you, yea to <hi>amaz</hi> you therein, being the <hi>road way of the world, from which ye separate not, no not at the Lords Table.</hi> A most unholy way yours is, as sure as the
+<pb n="27" facs="tcp:107210:14"/> other contrary to it, is the way of holiness, having no con<g ref="char:EOLhyphen"/>formity at all to the Nature of God, nor to the will of God, or to that which God wills. <hi>Every action of man is holy or unholy according to its conformity with, or variation from this will. The<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is no more holiness in any work then there is of the will of God in any work. To do holily, and to do the will of God, is the very same.</hi> Now find you out by searching, if you can, whether it be the will of God you should admit <hi>unreasonable</hi> (or men out of place, when they are, by your allowance, at the Lords Table, as Swine are in your Parlour) <hi>unreasonable and wicked men</hi> to eat at His Table of His Sup<g ref="char:EOLhyphen"/>per <note place="margin">2 Tim. 3. 2.</note> spread there, and prepared (as we have he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd all Mini<g ref="char:EOLhyphen"/>sters say, good and bad, though the bad do contrary to what they say) for the Lords dearest friends and lovers? enquire into this matter we pray you: and also whether upon your admission of such sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nish persons, the godly can find their warrant to communicate with you, who have admitted such a <hi>raseal company</hi> (so you read it in the <hi>Geneva</hi> Tra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>slation, made by your occasion two-fold m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the children of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Di<g ref="char:EOLhyphen"/>vel then when they we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn) to communicate wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h them there, that the <hi>room may be full;</hi> These must not, the Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly we mean, upon choice, acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpany with the wicked in any place, much less at the Lords Table. For though th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n em<g ref="char:EOLhyphen"/>brace the company of the worst upon this account to make them good, yet then not as <hi>companions with them, but as Physitians to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em.</hi> But to Physick <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem at the Lords Ta<g ref="char:EOLhyphen"/>ble (if we may express it so) was never heard of, spoken, af<g ref="char:EOLhyphen"/>firmed or pretended by any besides the man you wot of, and the men o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his way and judgement. Indeed we purposely cast all the Rebukes we find in Gods word upon this way, that you may not march on <hi>Jehu</hi> like therein as you seem to do, holding pace with Mr. <hi>Hs.</hi> who drives <hi>furiously</hi> in his way, wholly cross unto the <hi>Shepherd and Overse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of our Souls,</hi> who hath left us, as well by his walk, as by his suffe<g ref="char:EOLhyphen"/>rings, <hi>an example</hi> that we should go forth by the foot-steps of his fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, following his steps as dear Children. It became us, we thought, and as we were saying, to speak as we have done to him and your selfe, as we met you in your way so cry<g ref="char:EOLhyphen"/>ed
+<pb n="28" facs="tcp:107210:15"/> up by you, though so cross to holiness.</p>
+            <p>And have we so done because we love you not: God knows, for truely we would give you to know, That if we have not spoken to you and him <hi>weeping,</hi> yet we could wish we could let f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as many tears from our eyes, as words from our pen, however it may be conceited to be bent against you and him. We appeal to God in that matter, considering in our measure, what will be the end of that way, which lieth so cross to holiness; and what the end of those things will be which the people <hi>love to have so,</hi> being <hi>in love with death,</hi> and must prove destructive, yea damnation to them at the last end.</p>
+            <p>Sir, you shall do well to consider this, seeing you have the honour (and no good man doth envy it, it commands his pity rather) to be the leading man to the people on this side the flood, we suppose, and to those on the other side, where your God hath set the bounds of your habitation. It is a point of the highest wisdom, and choicest discretion for him that lead<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h others, to consider who leadeth him, and whom he taketh for an example, following his steps, specially at such a time, when he is going himselfe, and leading on his people unto that place, where he expects to meet his God, to communicate with him, yea, and in a visible way, to feed upon him. They have <hi>causam facilem</hi> in their hand, who would hold forth this, though yet to <hi>convince</hi> you thereof is the work of Him, who is the spirit of God and of Glory, the Lord Christ His great Agent here below: And when he shall have so done, convinced you, we mean though by means base and de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ca<g ref="char:EOLhyphen"/>ble in your eyes: what though? what the means were in the spirits hand will be nothing unto you now; for rejoycing in the Truth, you cannot but rejoyce to be overcome of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. It is Gods promise, that in the times of the Gospel the spirits of men shall be so brought down, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they shall not stand upon the greatness of their parts knowledge and learning, where a<g ref="char:EOLhyphen"/>ny of this is, but <hi>a child shall lead them;</hi> such shall be the humble temper, and carriage of those, the pride of whose spi<g ref="char:EOLhyphen"/>rits is subdued by the Gospel; we say it again, These shall rejoyce in the Truth, and to be overcome by it. Yea, and
+<pb n="29" facs="tcp:107210:15"/> their mouth shall be filled with blessings, as <hi>Davids</hi> was, when he met <hi>Abigail</hi> in his way, <hi>Blessed be the Lord God of Israel, and blessed be thy advice, and blessed be thou who hast kept me this day,</hi> 1 Sam. 25. 33. <hi>The Watch-man of Israel is our great keeper: but then he keeps most graciously when he keeps us from sin; Then he keeps us as his own people; He keeps from sickness or poverty by way of a general providence,</hi> saith that Learned Man, <hi>but from sin by way of peculiar pre<g ref="char:EOLhyphen"/>servation;</hi>
+               <note place="margin">Mr. <hi>Will. Jen.</hi> upon <hi>Jud.</hi> p. 63. Read Mr. <hi>Phil. Goodw. Commu.</hi> pag. 227. 228 229 230. 231.</note> Whatever preservation he bestows without this, it is but a reservation to eternal ruine.</p>
+            <p>We are conclud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d now, That God keeps a Minister from sin, a <hi>great</hi> and a <hi>black sin,</hi> somewhat nere to that of the high<g ref="char:EOLhyphen"/>est magnitude, or we may say from sinning against his own soul, and soules of his people, when he perswades with him to keep off his people from eating and drinking at the Lords Ta<g ref="char:EOLhyphen"/>ble, who cannot but eat and drink their <hi>damnation to them<g ref="char:EOLhyphen"/>selves, not discerning the Lords Body.</hi> And then we cannot but conclude also our duty, the rather, sith you have called us forth to it, to do our utmost to keep you from this sin, and so to withdraw your foot out of M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Hs.</hi> his way. But if this we effect not, and herein we prevail not with you, yet our duty is to wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n each other of all, or any such persons as shall either in their practise or Doctrine walk contrary to God, and foot<g ref="char:EOLhyphen"/>steps of his people.</p>
+            <p>And thus much be spoken to assure you, that whatsoever we have said against you and your people, as you for want of due consideration and charity may inte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pret it, was spoken as in Gods sight, in the integrity of our hearts. 1. For the good here, and everlasting welfare hereafter of your and their ever<g ref="char:EOLhyphen"/>lasting souls, And 2. in discharge of our own souls also; for this being a cleared truth, that we must separate from the world at the Lords Table, we durst not for our lives withhold it in unrighteousness; Because nothing in the world will bur<g ref="char:EOLhyphen"/>then the conscience so much as <hi>concealed truth.</hi>
+            </p>
+            <p>And so much to the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st particular, to set your judgement strait towards us and these matters. And to assure you of our truest affections to you and your friend, and all your people all over your Church, whom you call <hi>Saints,</hi> and deal with them
+<pb n="30" facs="tcp:107210:16"/> as such, because baptized therein, and <hi>eo nomine,</hi> admit to all acts of Church-Communion. We cannot wish you good speed in your way, because we dare not wish impossibilities: but the Lord give you, and all that act th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same part with you walki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g together in that way, give you a sight of it, how ab<g ref="char:EOLhyphen"/>horring it is to the Lord and his people.</p>
+            <p>We proceed now to the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cond.</p>
+            <p>That we being in some measure, through grace, acquainted <milestone type="tcpmilestone" unit="unspecified" n="2"/> with the hearts decei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fulness, our own above many, what selfe-lovers, selfe-seekers, selfe-pleasers, and flatterers we are, na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urally best pleased, and delighted in our own way, the broad way of sin, and death; we as w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were saying, have been earnest with the Lord, That he would set our hearts to ponder, or weigh that we read, <hi>Prov.</hi> 21. 2. <hi>every way of man is right in his own eye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> who would think this were possible? yet if you single out man by man, and Mr. <hi>Hum<g ref="char:EOLhyphen"/>phereys</hi> himself out of the crowd, every one would judge (he and all his way that sense with him) his own way right, though tending directly to Hell, going down to the Cham<g ref="char:EOLhyphen"/>bers of death, as we fear Mr. <hi>Humphereys</hi> way doth: <hi>But the Lord pondereth or weigheth the heart;</hi> He weigheth exactly how much there is of his own way, and how much there is of our own in it. Suffer us not Lord to tread in the way pleasing in our own eys, because it streightneth not the flesh, putting it to cost; but point us to, and lead us in the way of life, which is a way of pleasantness, and all the paths therein are pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce.</p>
+            <p>We have considered your additional Note, the last words in your Paper, <hi>whom God calls ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, we must not call pro<g ref="char:EOLhyphen"/>fane,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>ye are a Church all holy, every one, Parents and Chil<g ref="char:EOLhyphen"/>dren, such the Lord himselfe calls them, and as such all are to be accounted of, and dealt with.</hi>
+            </p>
+            <p>This was said of old, the old put off, as aforesaid, we are <hi>Abrahams</hi> Children, he was holy, and so are we; Yet <hi>think not to say so,</hi> saith <hi>John</hi> the Baptist, <hi>Matth.</hi> 3. 9, Why might not they say so, sith they were so, and acknowledged so to be? <hi>I know that ye are Abrahams seed,</hi> saith the Lord Christ. <hi>Johns</hi> meaning was, <hi>be not proud of, nor lifted up wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> that thought, it is a vain thought, that <hi>Abraham</hi> is your
+<pb n="31" facs="tcp:107210:16"/> Father, when you walk not in the step<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Abraham,</hi> you do not his works; yet in this empty title, this thing of n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught, <note place="margin">Ezek. 22. 14.</note> they gloried in to the last, as ye in your Church; But <hi>could their heart endure</hi> (to allude to those words) <hi>or could their hands be strong in the dayes that the Lord dealt with them? Did they say before him that slew them, we are a Church, we are an holy Nation?</hi> No, they were dealt withal a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>a polu<g ref="char:EOLhyphen"/>ted people,</hi> and <hi>no Church, when they were in the hand of him that slow them, they died the death of the uncircumcised,</hi>
+               <note place="margin">Ezek. 28. 9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> (to allude to those words also)</p>
+            <p>Truely we thought, that of all Arguments you would not have taken this out of the mouth of the Jews, whom the <hi>Lord hath judged as women that break wedlock and shed blood are judged, and hath given them blood in fury and jealousie,</hi> Ezek. 16. 38.</p>
+            <p>They did not look like the Garden of God watered every moment, they look now like a Wilderness, so as they may be called <hi>H<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mah,</hi> utter destruction, as at this day; so the Lord hath said of this your Argument, we think, as he said of this peoples Adultery with stocks and stones; <hi>Thou shalt not com<g ref="char:EOLhyphen"/>mit this lewdness above all thy Abominations;</hi> Thou shalt not use this Argument, <hi>we are a Church, as that Nation was, all holy, as the Jewes were;</hi> Of all Arguments this Argu<g ref="char:EOLhyphen"/>ment is an Abomination to Me, with whom I have dealt, as aforesaid, may ye, we think, hear the Lord say; hath the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d dealt so with that Church, as never hitherto with any Nation, and shall we argue our <hi>holiness,</hi> as they did, whom the Lord rooted out of their Land in anger, and in wrath, and in great indignation? Let us hear and fear, that we may not speak presumptiously, nor op<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur mouths any more, saying, <hi>We are an holy people, and the Lord accounts us so:</hi> surely, ye may hear the Lord God saying unto us, with a voice, as loud as thunder, You shall not use this Argument any more, lest that befal us, which hath befallen them, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd shall befal all the enemies of the Lord at the last; for they shall all be made <hi>an abhorring to all flesh:</hi> And surely <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord hath more then begun to execute this wrath, which is written, which may put us in minde, and we think seasonably and pertinently
+<pb n="22" facs="tcp:107210:17"/> enough, what was said of <hi>Germany,</hi> that <hi>part</hi> or <hi>Canton</hi> thereof, which looked best like a Church; <hi>Germany looks not like a Church, it shall look like a Church-yard,</hi> a <hi>Golgotha</hi> of <note place="margin">Omnis civi<g ref="char:EOLhyphen"/>tas bustum.</note> bones (as <hi>Salvyan</hi> speaks of another City wasted with war) when <hi>we hear and fear,</hi> we shall neither <hi>speak nor do presump<g ref="char:EOLhyphen"/>tuously.</hi> We wish heartily you could behold your Church, how it stands now, <hi>like a bowing wall,</hi> and as a <hi>tottering fense,</hi> as a <hi>reed shaken in a tempest;</hi> and anon after must <hi>be driven</hi> as the <hi>chaff is driven with the wind,</hi> or as a <hi>rolling thing</hi> before the <hi>whirle-wind.</hi> Enquire we should what hath the Lord done to that Mother Church? what to other Chur<g ref="char:EOLhyphen"/>ches in ancient days, and of late years, <hi>when they come to glo<g ref="char:EOLhyphen"/>ry in a thing of naught,</hi> a bare empty name onely; What hath the Lord done? and will he spare us, who glory in the very same thing, that we have a <hi>Name to live</hi> when we <hi>are dead?</hi> Hear worthy Mr. <hi>Burg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Our Congregations may be called</hi> Acheldamaes, <hi>our Church-yards and our Churches being both alike; these are full of the corporally dead, the o<g ref="char:EOLhyphen"/>ther of spiritually dead.</hi>
+            </p>
+            <p>What though say you, for you will say, as Mr. <hi>Hs.</hi> saith, <hi>the more dead they are, the more ingenious guests for the Lords Table they are;</hi> there is that will quicken them, though as dead as bodies in the grave—But of this you may read more heareafter; this is for our learning now, hold we our eye fixed upon that <hi>Mother Church,</hi> and <hi>the burden is laid upon her;</hi> and say not we, we are now as she was, least we be be made as she was, <hi>Magor-missabib, terrour on every side;</hi> and as she now is, <hi>delivered up to commotion, to astonishment, and to hissing, as ye see with your eyes.</hi> If we hear and fear we shall neither speak nor do presumptuously. To proceed a little farther, so to give, or take information. <hi>Jerusalem</hi> was the holy City, so was the Temple there, you can tell us <note place="margin">1 King. 8. 48.</note> wherefore at that time it was called so, and why they <hi>prayed towards it;</hi> so was that <hi>Mount Sion,</hi> and the other neer to <note place="margin">Dan. 6. 10.</note> it, an <hi>holy Mount;</hi> the whole land an <hi>holy land,</hi> when most of the Inhabitants there had no more holiness in account with <note place="margin">Dan. 9. 20. 2 Pet. 1. 16. Isa. 8. 8.</note> God, nor looked after it any more then the Land did; yet glo<g ref="char:EOLhyphen"/>rious priviledges it had, being <hi>Imma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls Land,</hi> of whom he
+<pb n="33" facs="tcp:107210:17"/> took special and peculiar care for the sake of a chosen, and a peculiar people there, he c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls the <hi>Vine-yard</hi> of his <note place="margin">Isa. 8. 8.</note>
+               <hi>red Wine.</hi>
+            </p>
+            <p>Give us Lord, to seek after that holiness, neither <hi>ti<g ref="char:EOLhyphen"/>tular</hi> onely, nor <hi>nominal,</hi> nor <hi>national,</hi> but <hi>special, pe<g ref="char:EOLhyphen"/>culiar,</hi> and <hi>real,</hi> without which <hi>none can see thy face,</hi> nor <hi>live with thee, blessed for ever,</hi> Amen</p>
+            <p>Hereunto we would adde the words we have from a <milestone type="tcpmilestone" unit="unspecified" n="4"/> learned man, because possible you and we may make some use of them; <hi>If our hearts were clean enough, our heads would be clear enough;</hi> The use we should make of it, as you very well know, is this; Let us give up our Hearts to the Lord, for the cleansing of them; our Heads for the clearing of them; our Hands and Feet or our whole Man for his leading of them. And <hi>cease we</hi> from <hi>our own way,</hi> right <hi>in our own eyes,</hi> and there<g ref="char:EOLhyphen"/>fore a way abhorred of the Lord, and of all those, that are the Lords. And say we still, as <hi>David</hi> did, what a blind man would say be wildered in his path, <hi>Lead me Lord</hi> in a plain path, the <hi>way everlasting, thy spirit is good, lead me, let me not put confidence in a guide,</hi> whom thou hast not appointed a <hi>Leader</hi> and <hi>Comman<g ref="char:EOLhyphen"/>der to his people,</hi> and none other to be followed but such <note place="margin">Isa. 55.</note> none, that leadeth to him, nor ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed but such an one, as commands for him, the <hi>only Leader and Commander to the people.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+            </p>
+            <p>But in these matters, let us cease from sense also, car<g ref="char:EOLhyphen"/>nal reason, and our own understanding, and cry we for His <hi>eye salve;</hi> that <hi>anointing which teacheth all thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>For these things lie off from sense, quite beyond the <hi>line, reach</hi> and <hi>borders of reason.</hi> Your <hi>titular Saints,</hi> and <hi>nominal Believers,</hi> that hold their Saint-ship by te<g ref="char:EOLhyphen"/>nure onely of their In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tism, understand none of these things, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> probably will they give their minds to understand them, till you shall drive them from their <hi>strong hold,</hi> which is their <hi>beleefe,</hi> That they are <hi>true Saints,</hi> and have a <hi>true right to all Church-Communi<g ref="char:EOLhyphen"/>ons,</hi> because <hi>they were born in a Church and Baptized
+<pb n="34" facs="tcp:107210:18"/> there;</hi> Till ye drive them off from this strong hold, they will not give their mind to understand these things, which are as much and more above the reach of their rea<g ref="char:EOLhyphen"/>son, then are the things of reason, above the sense of their beast.</p>
+            <p>In the last place,</p>
+            <p>Let us consider this, which we have so often h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard <milestone type="tcpmilestone" unit="unspecified" n="6"/> from others, <hi>God is angry with us, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile we are ang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y one with another;</hi> Therefore we should hear the good counsel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd take it, <hi>put we on, as the Elect of God, holy and beloved, bowels <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f mercy,</hi> Col. 3. 12. <note n="(a)" place="margin">Put ye on <hi>significat has virtutes esse seu ve<g ref="char:EOLhyphen"/>stes quibus animae no<g ref="char:EOLhyphen"/>strae im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> toti nos ornamur coram Deo, Angelis, &amp; hominibus. Zanchi</hi> on the Text.</note> Cloth we or clad our selves with bowel, that w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be sure to have them, <hi>as the cloaths upon our back, and p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t them on as our Garment,</hi> all over fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op to the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, from head to foot, bowels of m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cy over, so may we expect Bowels, tender mercies from our G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. And then as ye <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n preaching, so ye and we in praying may a<g ref="char:EOLhyphen"/>gree in one thing, <hi>Matth.</hi> 18. 19. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The import of the word is an ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>monial agreement to sing the same tune prayers are musick in Gods ears) saith that excellent Man, and so called Melody to God, <hi>Eph.</hi> 5. 9. It is not simply agreeing in the thing prayed for, but in the afflictions, which make the Consort and the Melody.</p>
+            <p>And so in end to what ye or we have, or can say more. To the way is right, or seems to be right in our own eyes. You bring Scripture, we b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng Scripture. To what end? That the Truth might app<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar on whose side <note place="margin">Rom. 4. 3. Gal. 3. 8. 1 Tim. 5. 18.</note> it is. It is true, <hi>The Scripture saith,</hi> in as much as G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, as Christ, as the Spirit saith by the Scripture, being the mouth or voice of God; the Standard, the Ballance, the Touch Stone, the Judge of T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth, of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way, walk and walkers therein. But is the <hi>Spirit in the word,</hi> that leadeth to it, unf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldeth it, cleareth i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up before us. How can we else understand what we read; If the Spirit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f him, who was worthy, and prevailed to <hi>open the Book</hi>
+               <note place="margin">Rev. 5.</note>
+               <hi>and loose</hi> the <hi>seals thereof, be not our Interpreter;</hi> Till he opens the Book the Learned can read no more of it,
+<pb n="35" facs="tcp:107210:18"/> then can the unlearned: It is as a clasped, or sealed Book to both. Aske we then for the spirit, that <hi>Eye-salve,</hi>
+               <note place="margin">Isa. 29. 11. 12</note> or an <hi>Anointing,</hi> that teacheth all things necessary for us to know; t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll he come and ims<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale our eyes (our seales are as ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck and hard as <hi>Pauls</hi> were, which tells us what <note place="margin">Acts 9. 18.</note> darknese is within us, as it told him, till the <hi>light</hi> come and remove them together with the vail spr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad over the heart, we see nothing into these matters, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur way, or our walk, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r know we any think as we ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht to know, but walk as blind men, or men in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dark, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nighted or be<g ref="char:EOLhyphen"/>wild<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red in the night, or thickest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>og, and will adven<g ref="char:EOLhyphen"/>ture (for who so hold as they, that say they see, but the word saith it not) <hi>To captivate Gods word to their un<g ref="char:EOLhyphen"/>derstanding, which should be captivated to the word of</hi>
+               <note place="margin">Rev. 13. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Vid. Bez.</hi>
+               </note>
+               <hi>God.</hi> So then we are concluded, that whatever disagree<g ref="char:EOLhyphen"/>ment there is betwixt us, as to our way and walk therein yet no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eement there is or repugnancy at all in the Scripture; were we sweetly accorded with it, we should be accorded with the Truth and with our selves. And indeed it is <hi>high</hi> time, and the high<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st reason we should be so accorded, for ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being a sweet agreem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in Scripture, and no repugna<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy at all, why should there be any disagreement at all betwixt them, that produce or h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndle the same; Agree with the Scriptures, and we are ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed, And this may move mightily with us to per<g ref="char:EOLhyphen"/>swad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to; because, <hi>as when children fall out in I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preting th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir fathers will, the Orph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns Patrimo<g ref="char:EOLhyphen"/>ny becomes the Lawyers booty,</hi> as one saith; So wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n they that should be fol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owers of God, as dear children fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the way, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about their way, it is more then doubted, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey fall out with the Scripture, at least fall not in wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; And then who are the gainers but He<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticks? for they are gainers by the divisio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of them, that should explain the word of Christ. We will re<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, and so we have done. <hi>Agree we with the Scriptures, and we are agreed;</hi> And that this may be, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke <note n="(a)" place="margin">Parum prodest te<g ref="char:EOLhyphen"/>ctio, quam non illumi<g ref="char:EOLhyphen"/>nat oratio.</note> we for the Spirit, Christs Vicar, or great Agent in the world, and never cease we <hi>asking</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll he
+<pb n="36" facs="tcp:107210:19"/> come; or <hi>seeking</hi> till we finde; or <hi>knocking</hi> till he o<g ref="char:EOLhyphen"/>pen the door of the understanding, and come in; A de<g ref="char:EOLhyphen"/>licate <note place="margin">
+                  <hi>Delicat<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Spiritus Sanctus.</hi> He is a dain<g ref="char:EOLhyphen"/>ty Guest.</note> person he is, grieved at the least offence is offered to him in his own House, or Temple, having expresly told in his Scripture, and directed how matters should be or<g ref="char:EOLhyphen"/>dered therein whole, and in part, after the due manner; And as he is angry with the wicked every day, who an<g ref="char:EOLhyphen"/>ger him in these matters; So is he grieved with his dear<g ref="char:EOLhyphen"/>est Children that grieve him therein: and being grieved, or fretted to the heart by them, he will grieve them, and make them know what it is to grieve him; but where once he hath taken up his habitation, there he will abide for ever.</p>
+            <p>We would in the close of this give you this assurance, That we would not give you or any other, any the least offence. What offence may be taken, we know not, or if we did, we know not how to help. This we know, it is our duty, and what we can, we will remove offences what possible: but it is not possible, we conceive, to remove them out of his, or their way, who walk with Mr. <hi>Hs.</hi> in his, which is rendered we thought, and we will help it for wa<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what we can, the <hi>abhorring of all flesh,</hi> in whom is any of the least work of the spirit of God, and of Glory. Notwithstanding Sir, we shall (through grace) be careful with all care as becometh, that no word pass from us, not examined first, &amp; weigh<g ref="char:EOLhyphen"/>ed by us, what agreement it hath with the word of Christ, mind and manner of his people: And so as we trust we shall write nothing in anger, and what we answer shall be done in love. And may the good spirit guide our tongue and our hand, when we see cause to put forth, either of both, that what we have said we may do: and our God may have glory from us by all we say or do, and we peace from Him, and acceptance with Him, through Him in whom we <hi>labour to be accepted,</hi> or so should <note place="margin">2 Cor. 5. 9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> do, as the ambitious man striveth to ascend the pinacle of honour, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107210:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
